@@ -1,4 +1,4 @@
-package sa1.jenkinsmaven;
+package sa1.jenkins;
 
 /**
  * Hello world!

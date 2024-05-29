@@ -1,4 +1,4 @@
-package sa1.jenkinsmaven;
+package sa1.jenkins;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
